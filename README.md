@@ -21,7 +21,7 @@ The pandemic has changed our lives. For most people, this meant working or spend
 </br>
 
 ## Demo 📱
-### Video
+### Video (YouTube)
 [![Papermark Video](https://img.youtube.com/vi/41TY7US43vg/0.jpg)](https://www.youtube.com/watch?v=41TY7US43vg&feature=youtu.be)
 
 </br>
